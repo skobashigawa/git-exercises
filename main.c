@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include "message.h"
 
-int main(void) {
+int main() {
+    printMessage();
+    return 0;
 }
